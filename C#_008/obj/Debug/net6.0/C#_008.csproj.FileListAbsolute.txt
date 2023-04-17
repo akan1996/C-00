@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\bin\Debug\net6.0\C#_008.exe
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\bin\Debug\net6.0\C#_008.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\bin\Debug\net6.0\C#_008.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\bin\Debug\net6.0\C#_008.dll
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\bin\Debug\net6.0\C#_008.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\obj\Debug\net6.0\C#_008.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\obj\Debug\net6.0\C#_008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\obj\Debug\net6.0\C#_008.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\obj\Debug\net6.0\C#_008.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\obj\Debug\net6.0\C#_008.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\obj\Debug\net6.0\C#_008.dll
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\obj\Debug\net6.0\refint\C#_008.dll
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\obj\Debug\net6.0\C#_008.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\obj\Debug\net6.0\C#_008.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\C#_00\C#_008\obj\Debug\net6.0\ref\C#_008.dll
